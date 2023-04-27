@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunj Parekh</h1>
 <h3 align="center">A girl who love to learn new stuffs</h3>
 
-- I’m currently learning **DataBase Management System and Comupter Network[as a college subject]**
+- I’m currently learning **Distributed System and Software Engineering[as a college subject]**
 
 - 📫 How to reach me **kunjparekh310@gmail.com**
 
